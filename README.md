@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="_xU25lUiaozMyMMSGHrSbDrcTkl0ZQ-jzw3E3QhARNs" />
+
 # bfo-undertale-lorbook
 Lorbook of BFO! Undertale in MD-file. Лорбук фанатской вселенной BFO! Undertale ("Undertale: Bloody Feather Overview"): история, устройство Подземелья, персонажи и локации. Фанатский лор на русском языке.
 
